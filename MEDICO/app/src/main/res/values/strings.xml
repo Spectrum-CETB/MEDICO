@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MEDICO</string>
+    <string name="title_activity_mainhome">mainhome</string>
+    <string name="tab_text_1">DASHBOARD</string>
+    <string name="tab_text_2">APPOINTMENTS</string>
+    <string name="tab_text_3">REPORTS</string>
+    <string name="title_activity_tabactivity">tabactivity</string>
+    <string name="first_name">Enter Name</string>
+</resources>

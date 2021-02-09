@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "791408967088",
+    "firebase_url": "https://medico-c331f.firebaseio.com",
+    "project_id": "medico-c331f",
+    "storage_bucket": "medico-c331f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791408967088:android:fc134752fba014cbf06a75",
+        "android_client_info": {
+          "package_name": "com.example.coderspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791408967088-oodgfvhdoa0ltvuvv3bl225mrmhuai22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFEVKOhItywal6v6YZAedVhJKgrtWcuTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791408967088-oodgfvhdoa0ltvuvv3bl225mrmhuai22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
