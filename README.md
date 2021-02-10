@@ -26,10 +26,8 @@
 </li>
 <li>Application would allow Doctors to maintain all the details about their patients.
 </li>
-
-
-
-
+<br/>
+  
 ## Setting up the project
 
 To setup the project locally read and follow the instructions:
