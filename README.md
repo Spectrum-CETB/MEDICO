@@ -69,7 +69,9 @@ The repository has the following permanent branches:
 
 
 ## Screenshots
-![Splashscreen](https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-45-45-152_com.example.coderspot.jpg=250x250)
+<img src="(https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-45-45-152_com.example.coderspot.jpg" alt="SplashScreen" height="250"/>
+
+
 
 ## DISCUSSION
 
