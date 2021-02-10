@@ -1,8 +1,6 @@
-
-[![project chat](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/spectrumclub/shared_invite/zt-m2an7g86-qrMH73jLxovwGVKftPgMyw)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub forks](https://img.shields.io/github/forks/anitab-org/mentorship-android?style=social)](https://github.com/Spectrum-CETB/MEDICO/network)
-[![GitHub stars](https://img.shields.io/github/stars/anitab-org/mentorship-android?style=social)](https://github.com/Spectrum-CETB/MEDICO/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Spectrum-CETB/MEDICO?style=social)](https://github.com/Spectrum-CETB/MEDICO/network)
+[![GitHub stars](https://img.shields.io/github/stars/Spectrum-CETB/MEDICO?style=social)](https://github.com/Spectrum-CETB/MEDICO/stargazers)
 
 # MEDICO (Android)
 
@@ -74,11 +72,14 @@ The repository has the following permanent branches:
 ## Screenshots
 |![Splashscreen](Screenshots/Splashscreen.png)
 
+## DISCUSSION
+
+We use [![project chat](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://join.slack.com/t/spectrumclub/shared_invite/zt-m2an7g86-qrMH73jLxovwGVKftPgMyw) to discuss this project and interact with the community. If you're interested in contributing to this project, join us there!
+
+
 ## Contact
 
 You can reach our organization at [SPECTRUM](https://spectrumcet.com/).
-
-We use [#slack](https://join.slack.com/t/spectrumclub/shared_invite/zt-m2an7g86-qrMH73jLxovwGVKftPgMyw) to discuss this project and interact with the community. If you're interested in contributing to this project, join us there!
 
 ## License
 
