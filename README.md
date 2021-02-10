@@ -7,6 +7,7 @@
 [MEDICO](https://github.com/Spectrum-CETB/MEDICO/) is an application to ease the duty of the doctors and provide them with a virtual assistant.
 
 ## Features
+
 * **HELP DOCTORS STORE DATA ABOUT THEIR PATIENTS:-** Doctors will be able to store all the details about the patient’s disease, their medical reports, the medicines prescribed and even their next appointment scheduled.
 * **FOLDERS WILL BE CREATED TO MANAGE REPORTS:-** Doctors will have the freedom to create folders on the basis of report id or the name of disease to organize all the required contents in order.
 * **THE DOCTOR CAN SET THE PRIORITY OF A REPORT BASED ON THE DISEASE:-** Medical cases can be arranged on the basis of high, medium and low priorities, where high priority cases will require utmost attention. Priorities will depend upon how dangerous a disease is.
@@ -68,7 +69,7 @@ The repository has the following permanent branches:
 
 
 ## Screenshots
-|![Splashscreen](Screenshots/Splashscreen.png)
+|![Splashscreen](https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-45-45-152_com.example.coderspot.jpg)
 
 ## DISCUSSION
 
