@@ -70,6 +70,15 @@ The repository has the following permanent branches:
 
 ## Screenshots
 <img src="https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-45-45-152_com.example.coderspot.jpg" alt="SplashScreen" height="450"/>
+<img src="https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-45-48-682_com.example.coderspot.jpg" alt="SplashScreen" height="450"/>
+<img src="https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-45-51-288_com.example.coderspot.jpg" alt="SplashScreen" height="450"/>
+<img src="https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-46-09-198_com.example.coderspot.jpg" alt="SplashScreen" height="450"/>
+<img src="https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-46-11-634_com.example.coderspot.jpg" alt="SplashScreen" height="450"/>
+<img src="https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-46-14-396_com.example.coderspot.jpg" alt="SplashScreen" height="450"/>
+<img src="https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-46-17-035_com.example.coderspot.jpg" alt="SplashScreen" height="450"/>
+<img src="https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-46-19-913_com.example.coderspot.jpg" alt="SplashScreen" height="450"/>
+<img src="https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-46-22-712_com.example.coderspot.jpg" alt="SplashScreen" height="450"/>
+<img src="https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-46-26-211_com.example.coderspot.jpg" alt="SplashScreen" height="450"/>
 
 
 
