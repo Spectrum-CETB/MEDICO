@@ -67,6 +67,10 @@ The repository has the following permanent branches:
 
  * **main** This contains the code which has been released.
 
+## WorkFlow
+
+<img src="https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Picture%201.png" alt="SplashScreen"/>
+
 
 ## Screenshots
 <img src="https://github.com/Spectrum-CETB/MEDICO/blob/main/screenshot/Screenshot_2021-02-10-17-45-45-152_com.example.coderspot.jpg" alt="SplashScreen" height="450"/>
