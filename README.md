@@ -1,8 +1,8 @@
 
-[![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg?logo=zulip)](https://anitab-org.zulipchat.com/#narrow/stream/222534-mentorship-system)
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?logo=GNU)](http://www.gnu.org/licenses/gpl-3.0)
-[![GitHub forks](https://img.shields.io/github/forks/anitab-org/mentorship-android?style=social)](https://github.com/anitab-org/mentorship-android/network)
-[![GitHub stars](https://img.shields.io/github/stars/anitab-org/mentorship-android?style=social)](https://github.com/anitab-org/mentorship-android/stargazers)
+[![project chat](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/spectrumclub/shared_invite/zt-m2an7g86-qrMH73jLxovwGVKftPgMyw)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub forks](https://img.shields.io/github/forks/anitab-org/mentorship-android?style=social)](https://github.com/Spectrum-CETB/MEDICO/network)
+[![GitHub stars](https://img.shields.io/github/stars/anitab-org/mentorship-android?style=social)](https://github.com/Spectrum-CETB/MEDICO/stargazers)
 
 # MEDICO (Android)
 
