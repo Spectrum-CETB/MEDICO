@@ -75,7 +75,8 @@ The repository has the following permanent branches:
 ## DISCUSSION
 
 We use DISCORD to discuss this project and interact with the community. If you're interested in contributing to this project, join us there!
-[![project chat](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://join.slack.com/t/spectrumclub/shared_invite/zt-m2an7g86-qrMH73jLxovwGVKftPgMyw)
+<br/>
+[![project chat](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CjXEenvU)
 
 ## Contact
 
